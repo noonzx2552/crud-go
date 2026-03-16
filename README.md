@@ -1,4 +1,4 @@
-# MongoDB CRUD Demo
+# MongoDB CRUD
 
 This project is a simple CRUD API built with `Gorilla Mux` and `MongoDB`.
 
